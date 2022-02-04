@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QingMarcel
 - 👀 I’m interested in becoming a web and andriod developer and in the future other careers in tech
-- 🌱 I’m currently learning more on python(Flask)
-- 💞️ I’m looking to collaborate on projects with other developers with whom i can put myi skills to use and also learn from
+- 🌱 I’m currently learning more on python(
+- 💞️ I’m looking to collaborate on projects with other developers with whom i can put my skills to use and also learn from
 - 📫 How to reach me; Email: joshmarybrownonoda@gmail.com
 
 <!---
