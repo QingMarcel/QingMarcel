@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @QingMarcel
+- 👋 Hi, I’m @Joshua Onoda
 - 👀 I’m interested in becoming a web and andriod developer and in the future other careers in tech
 - 🌱 I’m currently learning more on python(
 - 💞️ I’m looking to collaborate on projects with other developers with whom i can put my skills to use and also learn from
